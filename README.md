@@ -1,5 +1,5 @@
 
-  Image Encryption Tool
+  Pixel manipulation for Image Encryption
 
 This Python program implements a simple image encryption tool using pixel manipulation techniques. The program can encrypt and decrypt images by performing basic mathematical operations on the pixel values. It is designed to be user-friendly, guiding users through the encryption and decryption processes with clear prompts.
 
